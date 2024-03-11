@@ -4,7 +4,11 @@ Retrieval Augmented Generation (RAG) is what gives small LLMs with small context
 **Future project enhancement:** Implement docker so the LLM can be run on a remote server and not suck up all the processing power of the user's computer.
 
 
-#### Looking at the Paul Grahm text as an example, here is an example query and output:
+#### Looking at the Paul Grahm text as an example, here are some example queries and responses:
 Query: "In what context are aliens talked about in this document?"
 
-Local LLM Response: "Aliens are discussed in the context of their potential knowledge and understanding of concepts, such as mathematical theorems and programming languages like Lisp. It is suggested that they may have discovered these concepts independently or learned them through observation. The text does not provide any further information about aliens or their existence."
+Local LLM Response: "The context of alien discussion in this document revolves around the concept of invented vs discovered knowledge. It's used as an analogy to illustrate that even if advanced alien civilizations have access to Lisp, there might be other paths leading to discoveredness."
+
+Query: "Who passed away in this document and why?"
+
+Local LLM Response: "The author's mother passed away due to colon cancer, which caused a blood clot leading to a stroke."
